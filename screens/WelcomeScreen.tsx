@@ -21,7 +21,7 @@ const WelcomeScreen = ({navigation}: any) => {
             ...styles.textStyle,
             fontSize: 22,
           }}>
-          Welcome to Your Application
+          Welcome to Your Applicationsss
         </Text>
         <View style={{marginTop: 30, padding: 15}}>
           <Text style={styles.textStyl1}>
