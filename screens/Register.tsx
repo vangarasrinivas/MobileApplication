@@ -71,7 +71,7 @@ const Register = ({navigation}: any) => {
               color: 'white',
               marginTop: 2,
             }}>
-            Register your Account
+            Register your Accounts
           </Text>
 
           {loader && loader ? (
